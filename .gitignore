@@ -2,16 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
-
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+DarkSouls/[Ll]ibrary
+DarkSouls/[Tt]emp
+DarkSouls/[Oo]bj
+DarkSouls/[Bb]uild
+DarkSouls/[Bb]uilds
+DarkSouls/[Ll]ogs
+DarkSouls/[Mm]emoryCaptures
+DarkSouls/UserSettings
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
